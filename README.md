@@ -1,8 +1,9 @@
-# Project Title
+first_repo
+Author - Dhruv Pandey
 
-## Description
+# Description-
 
-This is a brief description of the project, outlining its purpose and features.
+This is my first github repository.
 
 ## Installation
 
